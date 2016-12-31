@@ -18,8 +18,8 @@ Fork of http://offlinefs.sourceforge.net/
 
 ### Compilation
 
-    aclocal
     libtoolize
+    aclocal
     autoheader
     automake --add-missing
     autoconf
